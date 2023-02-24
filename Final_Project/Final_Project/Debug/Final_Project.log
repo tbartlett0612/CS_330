@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(310,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(550,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(551,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(555,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(556,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(558,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(559,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(566,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Final_Project\Main.cpp(644,21): warning C4018: '<': signed/unsigned mismatch
+  Final_Project.vcxproj -> C:\Users\thoma\OneDrive\Desktop\Coding Programs\CS330\Final_Project\Debug\Final_Project.exe

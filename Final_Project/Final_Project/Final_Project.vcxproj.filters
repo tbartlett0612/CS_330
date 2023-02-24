@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ShapeBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="texture\Black.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\bricks.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\brickslft.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\coffee.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\coffee1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\laptop.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\marble.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\marble1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\mug.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\mug1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\nathan-dumlao-tA90pRfL2gM-unsplash.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\note.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\Pad.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\paperclips.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\pencil.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\pencil_eraser.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\Pencil_Holder.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\pencil_tip.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\pink.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\pyramid_tex.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\pyramid01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\rocks.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\silver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\smiley.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\walltexture.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\white.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\wood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\wood1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\wood1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="texture\cube_texture.psd" />
+  </ItemGroup>
+</Project>
